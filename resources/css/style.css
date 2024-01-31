@@ -1,0 +1,42 @@
+/* *{
+    box-sizing: border-box;
+} */
+
+body{
+    background: linear-gradient(black, rgb(89, 87, 87))
+}
+
+.logo{
+    width: 2.5rem;
+}
+
+.titulo-principal{
+    text-align: center;
+    margin-top: .5em;
+    color: white;
+    padding: 2rem;
+}
+.spacer{
+    height: 22vh;
+}
+
+.boxCard{
+    width: 15rem;
+    min-height: 24rem;
+    min-width: 20rem;
+    margin-top: 2em;
+    margin-left: 2em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.imagemProduto{
+    width: 15rem;
+    align-self: center;
+}
+
+.valor{
+    background-color: rgb(252, 0, 0);
+    padding: .8em;
+}
+
